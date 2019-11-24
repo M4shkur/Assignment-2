@@ -46,7 +46,7 @@ var player = [0,0];
          if(player[i] > 24)
              {
 
-                 document.write("<br> <br> <br> Player " + (i+1) + " wins the game." + "<br>");
+                 document.write("<br> Player " + (i+1) + " wins the game." + "<br>");
                  break;
              }
        }
